@@ -1,4 +1,4 @@
-# Team Contract
+# Team Contract Modified
 
 **Your team is free to revise this contract as your team wishes; we have scaffolded it with a recommended structure similar to the provided sample on Quercus.**
 
